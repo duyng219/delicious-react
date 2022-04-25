@@ -65,10 +65,11 @@ const Card = styled.div`
   min-height: 10rem;
   overflow: hidden;
   position: relative;
+  border-radius: 2rem;
 
   img {
   border-radius: 2rem;
-  /* position: absolute; */
+  position: absolute;
   left: 0;
   width: 100%;
   height: 100%;
